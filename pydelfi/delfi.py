@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import pydelfi.priors as priors
 import numpy as np
-from tqdm.auto import tqdm
+from tqdm import tqdm
 import scipy.optimize as optimization
 import pickle
 

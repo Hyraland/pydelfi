@@ -1,0 +1,5 @@
+tensorflow>=v1.1.0
+getdist
+emcee
+scipy
+tqdm

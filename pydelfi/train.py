@@ -2,7 +2,8 @@ import tensorflow as tf
 import numpy as np
 import numpy.random as rng
 import os
-from tqdm.auto import tqdm
+#from tqdm.auto import tqdm
+from tqdm import tqdm
 
 class ConditionalTrainer():
     

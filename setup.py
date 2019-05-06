@@ -13,7 +13,7 @@ setup(name='pydelfi',
           "tensorflow>=v1.1.0",
           "getdist",
           "emcee",
-          "mpi4py",
+          #"mpi4py",
           "scipy",
           "tqdm"
       ])
