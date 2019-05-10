@@ -3,7 +3,7 @@ import numpy as np
 import numpy.random as rng
 import os
 #from tqdm.auto import tqdm
-from tqdm import tqdm
+from tqdm import tqdm_notebook as tqdm
 
 class ConditionalTrainer():
     
